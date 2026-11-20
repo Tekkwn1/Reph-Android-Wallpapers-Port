@@ -42,8 +42,8 @@ Grab the APK of the wallpaper you want from the [Releases](../../releases) secti
 | Galaxy S25 Edge | Galaxy S25 Edge | — | [Releases](../../releases) |
 | Galaxy Z Flip5 | Galaxy Z Flip5 | — | [Releases](../../releases) |
 | Galaxy S22 Serisi | Galaxy S22 Series | — | [Releases](../../releases) |
-| Galaxy S24 Ultra (AOD Destekli) | Galaxy S24 Ultra | AOD desteği var, modül gerekmez — tek APK | [Releases](../../releases) |
-| Galaxy S24 Ultra (AOD Desteksiz) | Galaxy S24 Ultra | AOD desteği yok | [Releases](../../releases) |
+| Galaxy S24 Ultra (AOD Support) | Galaxy S24 Ultra | AOD supported, no modules required — one APK | [Releases](../../releases) |
+| Galaxy S24 Ultra (Without Apk) | Galaxy S24 Ultra | No aod support | [Releases](../../releases) |
 
 > New ports are added regularly — check back or watch ⭐ this repo for updates.
 
