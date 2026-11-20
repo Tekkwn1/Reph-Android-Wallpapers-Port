@@ -1,4 +1,4 @@
-# Reph's Galaxy S/A/Z Series Live Wallpapers Port — Universal Android Support
+# Galaxy S/A/Z Series Live Wallpapers Port — Universal Android Support
 
 Brought to you by the community! This repo is a collection of **ported official Live Wallpapers** extracted from Samsung Galaxy series devices (S, A and Z series). Fully tested and working smoothly across **all Android devices** — no Samsung device or specific One UI year restriction required.
 
@@ -41,9 +41,9 @@ Grab the APK of the wallpaper you want from the [Releases](../../releases) secti
 | Galaxy S26 Ultra | Galaxy S26 Ultra | — | [Releases](../../releases) |
 | Galaxy S25 Edge | Galaxy S25 Edge | — | [Releases](../../releases) |
 | Galaxy Z Flip5 | Galaxy Z Flip5 | — | [Releases](../../releases) |
-| Galaxy S22 Serisi | Galaxy S22 Series | — | [Releases](../../releases) |
-| Galaxy S24 Ultra (AOD Support) | Galaxy S24 Ultra | AOD supported, no modules required — one APK | [Releases](../../releases) |
-| Galaxy S24 Ultra (Without Apk) | Galaxy S24 Ultra | No aod support | [Releases](../../releases) |
+| Galaxy S22 Series | Galaxy S22 Series | — | [Releases](../../releases) |
+| Galaxy S24 Ultra (AOD Supported) | Galaxy S24 Ultra | AOD supported, no module needed — single APK | [Releases](../../releases) |
+| Galaxy S24 Ultra (No AOD) | Galaxy S24 Ultra | No AOD support | [Releases](../../releases) |
 
 > New ports are added regularly — check back or watch ⭐ this repo for updates.
 
@@ -62,6 +62,10 @@ These Live Wallpapers are extracted and ported from official Samsung firmware fo
 ## 📄 License
 
 Unless stated otherwise, the packaging/porting scripts in this repository are free to use and modify. The wallpaper assets themselves remain the property of their original owner (Samsung).
+
+## 💬 Community
+
+Join our Telegram group for updates, requests, and support: [t.me/rephproject](https://t.me/rephproject)
 
 ---
 
